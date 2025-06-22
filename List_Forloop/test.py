@@ -20,4 +20,8 @@ def main():
                 print(file)
         else:
             print(f"Error while fetching files in {folder}:  {Error}")
-main()
+##calling the main function
+
+#main()
+if __name__ == "__main__":
+    main()
